@@ -1,0 +1,8 @@
+git 常用命令使用
+
+1. 克隆远程代码到本地 
+    git clone '项目git地址'  
+
+2. 查看当前分支
+    git branch
+
