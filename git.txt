@@ -15,3 +15,14 @@ git 常用命令使用
 5.提交文件出现用户不存在解决方法
     git config --global user.email "you@example.com"
     git config --local -l
+
+6. 查看仓库当前的状态
+    git status
+
+7. 查看文件修改了什么地方
+    git diff '文件名'
+
+8. 版本回退
+    
+
+11111
