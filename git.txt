@@ -6,3 +6,12 @@ git 常用命令使用
 2. 查看当前分支
     git branch
 
+3. 添加文件
+    git add 文件名
+
+4. 提交文件并注释
+    git commit -m '注释'
+
+5.提交文件出现用户不存在解决方法
+    git config --global user.email "you@example.com"
+    git config --local -l
